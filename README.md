@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+**URL**: https://abhishek-deshmukh-portfolio.vercel.app/
 
 ## How can I edit this code?
 
